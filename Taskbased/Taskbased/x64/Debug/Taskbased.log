@@ -1,0 +1,4 @@
+﻿  messagetask.cpp
+taskbased.obj : error LNK2019: unresolved external symbol "public: void __cdecl Farm::add_task(class Task *)" (?add_task@Farm@@QEAAXPEAVTask@@@Z) referenced in function main
+taskbased.obj : error LNK2019: unresolved external symbol "public: void __cdecl Farm::run(void)" (?run@Farm@@QEAAXXZ) referenced in function main
+C:\Users\cvdon\OneDrive\Documents\GitHub\cpp\DS-and-S---Sem2\Taskbased\x64\Debug\Taskbased.exe : fatal error LNK1120: 2 unresolved externals
